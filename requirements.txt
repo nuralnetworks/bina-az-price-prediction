@@ -1,0 +1,5 @@
+numpy==2.3.3
+pandas==2.2.3
+matplotlib==3.10.7
+scikit-learn==1.9.0   # baselines / comparison ONLY — not for the two main models
+scipy==1.17.1
